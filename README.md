@@ -1,6 +1,5 @@
 Title
 ===
-Devpost markdown headings and Python .gitignore
 
 ## Inspiration
 
