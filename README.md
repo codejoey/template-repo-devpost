@@ -5,12 +5,12 @@ Title
 
 ## What it does
 
-## How I built it
+## How it's built
 
-## Challenges I ran into
+## Challenges faced
 
-## Accomplishments that I'm proud of
+## Accomplishments
 
-## What I learned
+## Learnings
 
 ## What's next
